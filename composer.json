@@ -1,0 +1,17 @@
+{
+    "name": "gustavo/desafio_php_junior",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+
+            
+        }
+    },
+    "authors": [
+        {
+            "name": "gustavomejiadev",
+            "email": "gustavo_mejia@outlook.com.br"
+        }
+    ],
+    "require": {}
+}
